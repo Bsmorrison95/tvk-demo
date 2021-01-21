@@ -13,7 +13,8 @@ oc get crd | grep -i trilio
 ```
 
 
-	## JUMP INTO NAMESPACE ##
+** JUMP INTO NAMESPACE **
+
 
 oc project demosource
 
